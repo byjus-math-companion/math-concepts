@@ -1,0 +1,30 @@
+{
+    "classes":[
+        {
+            "class-title":"Basic Geometry",
+            "pages":[
+                {
+                    "name" : "Area of Rectangle",
+                    "url" : "https://byjus.com/us/math/study/concept/area-of-rectangle"
+                },
+                {
+                    "name" : "Area of Circle",
+                    "url" : "https://byjus.com/us/math/study/concept/area-of-circle"
+                }
+            ]
+        },
+        {
+            "class-title":"Units and Measures",
+            "pages":[
+                {
+                    "name" : "Units of Weight",
+                    "url" : "https://byjus.com/us/math/study/concept/units-of-weight"
+                },
+                {
+                    "name" : "Units of Length",
+                    "url" : "https://byjus.com/us/math/study/concept/units-of-length"
+                }
+            ]
+        }
+    ]
+}
