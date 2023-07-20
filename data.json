@@ -1,30 +1,267 @@
 {
-    "classes":[
-        {
-            "class-title":"Basic Geometry",
-            "pages":[
-                {
-                    "name" : "Area of Rectangle",
-                    "url" : "https://byjus.com/us/math/study/concept/area-of-rectangle"
-                },
-                {
-                    "name" : "Area of Circle",
-                    "url" : "https://byjus.com/us/math/study/concept/area-of-circle"
-                }
-            ]
-        },
-        {
-            "class-title":"Units and Measures",
-            "pages":[
-                {
-                    "name" : "Units of Weight",
-                    "url" : "https://byjus.com/us/math/study/concept/units-of-weight"
-                },
-                {
-                    "name" : "Units of Length",
-                    "url" : "https://byjus.com/us/math/study/concept/units-of-length"
-                }
-            ]
-        }
+    "classes": [
+      {
+        "class-title": "Geometry",
+        "pages": [
+          {
+            "name": "Area of Rectangle",
+            "url": "https://byjus.com/us/math/study/concept/area-of-rectangle"
+          },
+          {
+            "name": "Area of Circle",
+            "url": "https://byjus.com/us/math/study/concept/area-of-circle"
+          },
+          {
+            "name": "Surface Area of Right Triangular Prism",
+            "url": "https://byjus.com/us/math/study/concept/surface-area-of-right-triangular-prism"
+          },
+          {
+            "name": "Surface Area of Rectangular Prism",
+            "url": "https://byjus.com/us/math/study/concept/surface-area-of-rectangular-prism"
+          },
+          {
+            "name": "Surface Area of Cone",
+            "url": "https://byjus.com/us/math/study/concept/surface-area-of-cone"
+          },
+          {
+            "name": "Area of Triangle",
+            "url": "https://byjus.com/us/math/study/concept/area-of-triangle"
+          },
+          {
+            "name": "Circumference of Circle",
+            "url": "https://byjus.com/us/math/study/concept/circumference-of-circle"
+          },
+          {
+            "name": "Area of Rhombus",
+            "url": "https://byjus.com/us/math/study/concept/area-of-rhombus"
+          },
+          {
+            "name": "Length of Arc",
+            "url": "https://byjus.com/us/math/study/concept/length-of-arc"
+          },
+          {
+            "name": "Area of Square",
+            "url": "https://byjus.com/us/math/study/concept/area-of-square"
+          },
+          {
+            "name": "Surface Area of Cylinder",
+            "url": "https://byjus.com/us/math/study/concept/surface-area-of-cylinder"
+          },
+          {
+            "name": "Surface Area of Cube",
+            "url": "https://byjus.com/us/math/study/concept/surface-area-of-cube"
+          },
+          {
+            "name": "Surface Area of Sphere",
+            "url": "https://byjus.com/us/math/study/concept/surface-area-of-sphere"
+          },
+          {
+            "name": "Area of Sector of a Circle",
+            "url": "https://byjus.com/us/math/study/concept/area-of-sector-of-a-circle"
+          },
+          {
+            "name": "Area of Composite Shape",
+            "url": "https://www.byjus.com/us/math/study/concept/area-of-composite-shape"
+          },
+          {
+            "name": "Pythagorean Theorem",
+            "url": "https://byjus.com/us/math/study/concept/pythagorean-theorem"
+          }
+        ]
+      },
+      {
+        "class-title": "Measurement and Units",
+        "pages": [
+          {
+            "name": "Units to Measure Capacity",
+            "url": "https://byjus.com/us/math/study/concept/units-to-measure-capacity"
+          },
+          {
+            "name": "Units of Weight",
+            "url": "https://www.byjus.com/us/math/study/concept/units-of-weight"
+          },
+          {
+            "name": "Units of Length",
+            "url": "https://www.byjus.com/us/math/study/concept/units-of-length"
+          },
+          {
+            "name": "Units of Area",
+            "url": "https://www.byjus.com/us/math/study/concept/units-of-area"
+          },
+          {
+            "name": "Units of Time",
+            "url": "https://www.byjus.com/us/math/study/concept/units-of-time"
+          },
+          {
+            "name": "Volume and Cubic Units",
+            "url": "https://byjus.com/us/math/study/concept/volume-and-cubic-units"
+          }
+        ]
+      },
+      {
+        "class-title": "Volume",
+        "pages": [
+          {
+            "name": "Volume of Cube",
+            "url": "https://byjus.com/us/math/study/concept/volume-of-cube"
+          },
+          {
+            "name": "Volume of Rectangular Prism",
+            "url": "https://byjus.com/us/math/study/concept/volume-of-rectangular-prism"
+          },
+          {
+            "name": "Volume of Cylinder",
+            "url": "https://byjus.com/us/math/study/concept/volume-of-cylinder"
+          },
+          {
+            "name": "Volume of Triangular Prism",
+            "url": "https://byjus.com/us/math/study/concept/volume-of-triangular-prism"
+          },
+          {
+            "name": "Volume of Cone",
+            "url": "https://byjus.com/us/math/study/concept/volume-of-cone"
+          },
+          {
+            "name": "Volume of Pyramids",
+            "url": "https://byjus.com/us/math/study/concept/volume-of-pyramids"
+          },
+          {
+            "name": "Volume of Sphere",
+            "url": "https://byjus.com/us/math/study/concept/volume-of-sphere"
+          },
+          {
+            "name": "Volume of Composite Solids",
+            "url": "https://byjus.com/us/math/study/concept/volume-of-composite-solids"
+          }
+        ]
+      },
+      {
+        "class-title": "Algebraic Expressions",
+        "pages": [
+          {
+            "name": "Exponential Expressions",
+            "url": "https://byjus.com/us/math/study/concept/exponential-expressions"
+          },
+          {
+            "name": "Algebraic Expressions",
+            "url": "https://byjus.com/us/math/study/concept/algebraic-expressions"
+          },
+          {
+            "name": "Writing Algebraic Expressions",
+            "url": "https://byjus.com/us/math/study/concept/writing-algebraic-expressions"
+          },
+          {
+            "name": "Equivalent Expressions",
+            "url": "https://byjus.com/us/math/study/concept/equivalent-expressions"
+          },
+          {
+            "name": "Creating Equivalent Expressions",
+            "url": "https://byjus.com/us/math/study/concept/creating-equivalent-expressions"
+          },
+          {
+            "name": "Simplifying Algebraic Expressions",
+            "url": "https://byjus.com/us/math/study/concept/simplifying-algebraic-expressions"
+          }
+        ]
+      },
+      {
+        "class-title": "Equations and Inequalities",
+        "pages": [
+          {
+            "name": "Equation and Its Solution",
+            "url": "https://byjus.com/us/math/study/concept/equation-and-its-solution"
+          },
+          {
+            "name": "Solving Equations Using a Tape Diagram",
+            "url": "https://byjus.com/us/math/study/concept/solving-equations-using-a-tape-diagram"
+          },
+          {
+            "name": "Solving an Equation Using Inverse Operations",
+            "url": "https://byjus.com/us/math/study/concept/solving-an-equation-using-inverse-operations"
+          },
+          {
+            "name": "Introduction to Inequalities",
+            "url": "https://byjus.com/us/math/study/concept/introduction-to-inequalities"
+          },
+          {
+            "name": "Graphing Simple Inequalities",
+            "url": "https://byjus.com/us/math/study/concept/graphing-simple-inequalities"
+          },
+          {
+            "name": "Factoring Linear Expressions",
+            "url": "https://byjus.com/us/math/study/concept/factoring-linear-expressions"
+          },
+          {
+            "name": "Solving Linear Equations",
+            "url": "https://byjus.com/us/math/study/concept/solving-linear-equations"
+          },
+          {
+            "name": "Forming Equations and Inequalities",
+            "url": "https://byjus.com/us/math/study/concept/forming-equations-and-inequalities"
+          },
+          {
+            "name": "Writing Simple Equation and Inequality into Words",
+            "url": "https://byjus.com/us/math/study/concept/writing-simple-equation-and-inequality-into-words"
+          },
+          {
+            "name": "One-Step Linear Inequalities",
+            "url": "https://byjus.com/us/math/study/concept/one-step-linear-inequalities"
+          },
+          {
+            "name": "Two-Step Linear Inequalities",
+            "url": "https://byjus.com/us/math/study/concept/two-step-linear-inequalities"
+          },
+          {
+            "name": "Modeling Linear Inequalities",
+            "url": "https://byjus.com/us/math/study/concept/modeling-linear-inequalities"
+          },
+          {
+            "name": "Rules of Integer Exponents I",
+            "url": "https://byjus.com/us/math/study/concept/rules-of-integer-exponents-I"
+          },
+          {
+            "name": "Rules of Integer Exponents II",
+            "url": "https://byjus.com/us/math/study/concept/rules-of-integer-exponents-II"
+          },
+          {
+            "name": "Simplifying Exponential Expressions Using Rules",
+            "url": "https://byjus.com/us/math/study/concept/simplifying-exponential-expressions-using-rules"
+          },
+          {
+            "name": "Solutions of a Linear Equation with One Variable",
+            "url": "https://byjus.com/us/math/study/concept/solutions-of-a-linear-equation-with-one-variable"
+          },
+          {
+            "name": "Solving Linear Equations in One Variable",
+            "url": "https://byjus.com/us/math/study/concept/solving-linear-equations-in-one-variable"
+          }
+        ]
+      },
+      {
+        "class-title": "Coordinate Geometry",
+        "pages": [
+          {
+            "name": "Coordinate Plane and Coordinates",
+            "url": "https://byjus.com/us/math/study/concept/coordinate-plane-and-coordinates"
+          },
+          {
+            "name": "Nets of Solid Figures",
+            "url": "https://byjus.com/us/math/study/concept/nets-of-solid-figures"
+          },
+          {
+            "name": "Coordinate Plane and Quadrants",
+            "url": "https://byjus.com/us/math/study/concept/coordinate-plane-and-quadrants"
+          },
+          {
+            "name": "Slope of a Line",
+            "url": "https://byjus.com/us/math/study/concept/slope-of-a-line"
+          },
+          {
+            "name": "Slope-Intercept Form of a Line",
+            "url": "https://byjus.com/us/math/study/concept/slope-intercept-form-of-a-line"
+          }
+        ]
+      }
     ]
-}
+  }
+  
