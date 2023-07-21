@@ -1,0 +1,31 @@
+.hoverCard:hover{
+    border: 1px solid rgb(22,119,255);
+    box-shadow: 0 2px 5px 0px rgba(94, 94, 94, 0.186);
+}
+
+.hoverCard:hover h2{
+    color: rgb(22,119,255);
+}
+
+h2{
+    text-align: left;
+    font-size: 1.2rem;
+}
+
+p{
+    text-align: left;
+    font-size: .9rem;
+}
+
+.clickableCard{
+    width: fit-content;
+}
+
+.cards-holder{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 150px));
+    gap: 10px;
+    height: 100%;
+    overflow: auto;
+    justify-content: center;
+}
