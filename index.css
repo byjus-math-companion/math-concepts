@@ -25,9 +25,9 @@ h1 {
 
 .classes{
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-around;
-    gap: 60px;
+    /* gap: 60px; */
 }
 
 @media (max-width: 480px) {
@@ -44,6 +44,15 @@ h1 {
 
 .class-card {
     margin-bottom: 20px;
+    width: 50%;
+
+}
+
+.links-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 80%;
 }
 
 .class-card h2 {
@@ -69,8 +78,4 @@ h1 {
 
 .class-card .link-button:hover {
     background-color: #3813db;
-}
-
-.class-card:hover h2{
-    transform: scale(1.05,1.05);
 }

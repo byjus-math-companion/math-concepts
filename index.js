@@ -31,9 +31,13 @@ function createClassCard(_class){
     headingHTML.innerText = _class['class-title'];
     classContainerHTML.appendChild(headingHTML);
 
+    let linksContainer = document.createElement('div');
+    linksContainer.classList.add("links-container");
+    classContainerHTML.appendChild(linksContainer);
+
     _class.pages.forEach(page  => {
         let thisButton = createLinkButton(page);
-        classContainerHTML.appendChild(thisButton);
+        linksContainer.appendChild(thisButton);
     });
     
     return classContainerHTML;
